@@ -1,0 +1,12 @@
+package com.sunbeam;
+
+public class LinearSearchNthOccurence {
+	public static int linearSearch(int[] arr, int key, int n) {
+		return -1;
+	}
+
+	public static void main(String[] args) {
+
+	}
+
+}
